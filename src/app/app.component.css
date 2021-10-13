@@ -1,31 +1,31 @@
-
 .navbar.navbar-dark.navbar-expand-md.bg-dark {
-    background-color: #fff;
-    font-family: 'Lato', sans-serif;
-    font-size: 200px;
+  background-color: #fff;
+  font-family: "Lato", sans-serif;
+  font-size: 200px;
 }
 
-.card{
-    padding: 20px;
+.card {
+  padding: 20px;
 }
-.row{
-    margin-left: 10px;
-    margin-right: 10px;
+.row {
+  margin-left: 10px;
+  margin-right: 10px;
 }
-.col-sm-3{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.btn{
-    margin-left: 2px;
-    margin-right: 2px;
+.col-sm-3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-.float{
-    position: fixed;
-      bottom: 3rem;
-      right: 3rem;
-      width: 5em;
-      height: 2.5em;
+.btn {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.float {
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  width: 5em;
+  height: 2.5em;
+  color: blue;
 }
