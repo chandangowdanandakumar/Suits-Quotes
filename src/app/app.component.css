@@ -21,3 +21,11 @@
     margin-left: 2px;
     margin-right: 2px;
 }
+
+.float{
+    position: fixed;
+      bottom: 3rem;
+      right: 3rem;
+      width: 5em;
+      height: 2.5em;
+}
