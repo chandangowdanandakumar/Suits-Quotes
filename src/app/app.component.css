@@ -1,0 +1,21 @@
+body {
+    background-color: #000
+}
+
+.navbar.navbar-dark.navbar-expand-md.bg-dark {
+    background-color: #000;
+    font-family: 'Lato', sans-serif;
+    font-size: 200px !important;
+}
+
+.card{
+    padding: 20px;
+}
+.row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.col-sm-4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
