@@ -1,8 +1,8 @@
 
 .navbar.navbar-dark.navbar-expand-md.bg-dark {
-    background-color: #000;
+    background-color: #fff;
     font-family: 'Lato', sans-serif;
-    font-size: 200px !important;
+    font-size: 200px;
 }
 
 .card{
@@ -15,4 +15,9 @@
 .col-sm-3{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.btn{
+    margin-left: 2px;
+    margin-right: 2px;
 }
